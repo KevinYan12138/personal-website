@@ -19,23 +19,17 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        I am currently a senior studying Computer Science & Stats at UIUC.{" "}
-        <span className="italic">My favorite part of programming</span> is the
-        problem-solving aspect. I <span className="underline">love</span> the
+        I am currently a senior studying Computer Science & Stats at UIUC.
+        My favorite part of programming is the problem-solving aspect. I love the
         feeling of finally figuring out a solution to a problem. I have experience
-        in{" "}
-        <span className="font-medium">
-          Full-stack, Frontend, and Backend development
-        </span>
-        . I am always looking to learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a software
-        engineer after graduation.
+        in Full-stack, Frontend, and Backend development. 
+        I am always looking to learn new technologies. I am currently looking for a
+        full-time position as a software engineer after graduation.
       </p>
 
       <p>
-        <span className="italic">When I'm not coding</span>, I enjoy playing
-        video games and watching movies. I also enjoy{" "}
-        <span className="font-medium">learning new things</span>.
+        When I'm not coding, I enjoy playing
+        video games and watching movies.
       </p>
     </motion.section>
   );
