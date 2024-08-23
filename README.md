@@ -2,6 +2,7 @@
 <a id="readme-top"></a>
 
 [![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- TABLE OF CONTENTS -->
 <details>
